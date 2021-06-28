@@ -11,7 +11,7 @@
 
 ### Methods of Rebalancing:
 
-**1. Calender Method** – You do your Asset rebalancing on a monthly, quarterly, yearly, 2/5 yearly basis. Or you do it daily \(David Swensen used to do it daily in his Yale Endowment portfolio, largely because that portfolio did not incur any taxes\). There have been few studies which have shown that the frequency of rebalancing, as such, does not have any statistically significant effect over the overall return of the portfolio, provided you do the rebalancing. \(I cannot get reference for that right now\).
+**1. Calendar Method** – You do your Asset rebalancing on a monthly, quarterly, yearly, 2/5 yearly basis. Or you do it daily \(David Swensen used to do it daily in his Yale Endowment portfolio, largely because that portfolio did not incur any taxes\). There have been few studies which have shown that the frequency of rebalancing, as such, does not have any statistically significant effect over the overall return of the portfolio, provided you do the rebalancing. \(I cannot get reference for that right now\). [Link](https://www.wiseradvisor.com/article/determining-the-optimal-rebalancing-frequency-221/)
 
 **2. Percentage Method** – In this, whenever the particular asset goes beyond a set percentage value, the portfolio is rebalanced regardless of the last time it was done.
 
